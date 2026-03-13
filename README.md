@@ -1,6 +1,6 @@
 # 🤖 Reinforcement Learning Practice
 
-![Reinforcement Learning Banner](https://raw.githubusercontent.com/Kratugautam99/Reinforcement-Learning-Practice/refs/heads/main/Demo/img/display.png.jpg)
+![Reinforcement Learning Banner](https://raw.githubusercontent.com/Kratugautam99/Reinforcement-Learning-Practice/refs/heads/main/Demo/img/display.jpg)
 
 <p align="center">
   <a href="#-table-of-contents"><img src="https://img.shields.io/badge/Table%20of%20Contents-📑-blue?style=for-the-badge"></a>
