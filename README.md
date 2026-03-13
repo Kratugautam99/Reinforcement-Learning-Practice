@@ -1,6 +1,6 @@
 # 🤖 Reinforcement Learning Practice
 
-![Reinforcement Learning Banner](Demo/img/display.png)
+![Reinforcement Learning Banner](https://raw.githubusercontent.com/Kratugautam99/Reinforcement-Learning-Practice/refs/heads/main/Demo/img/display.png.jpg)
 
 <p align="center">
   <a href="#-table-of-contents"><img src="https://img.shields.io/badge/Table%20of%20Contents-📑-blue?style=for-the-badge"></a>
@@ -105,7 +105,7 @@ A comprehensive collection of **Reinforcement Learning implementations** from th
 Training the adorable dog "Huggy" to fetch sticks in Unity ML-Agents environment using PPO. This project introduces Unity ML-Agents toolkit and demonstrates 3D environment training.
 
 <div align="center">
-  <video src="Demo/vid/replay1.mp4" width="600" controls>
+  <video src="https://huggingface.co/KraTUZen/ppo-Huggy/resolve/main/replay.mp4" controls width="600"></video>
     Your browser does not support the video tag.
   </video>
   <p><em>🦴 Huggy learning to fetch sticks (Best Score: 3.827)</em></p>
@@ -123,9 +123,9 @@ Training the adorable dog "Huggy" to fetch sticks in Unity ML-Agents environment
 Mastering the Lunar Lander environment using Proximal Policy Optimization (PPO) with Stable-Baselines3. The agent learns to land safely between the flags with precision control.
 
 <div align="center">
-  <video src="Demo/vid/replay2.mp4" width="600" controls>
+  <video src="https://huggingface.co/KraTUZen/ppo-LunarLander-v2/resolve/main/replay.mp4" width="600" controls> 
     Your browser does not support the video tag.
-  </video>
+   </video>
   <p><em>🌑 lunar landing (Score: 245.02 / 200 required)</em></p>
 </div>
 
@@ -144,13 +144,13 @@ Classic tabular Q-Learning implementations from scratch. Taxi-v3 involves passen
   <table>
     <tr>
       <td align="center">
-        <video src="Demo/vid/replay3.1.mp4" width="280" controls>
+        <video src="https://huggingface.co/KraTUZen/q-Taxi-v3/resolve/main/replay.mp4" width="280" controls>
           Your browser does not support the video tag.
         </video>
         <p><em>🚕 Taxi-v3 (Score: 4.85)</em></p>
       </td>
       <td align="center">
-        <video src="Demo/vid/replay3.2.mp4" width="280" controls>
+        <video src="https://huggingface.co/KraTUZen/q-FrozenLake-v1-no-slippery/resolve/main/replay.mp4" width="280" controls>
           Your browser does not support the video tag.
         </video>
         <p><em>❄️ FrozenLake (Score: 1.0)</em></p>
@@ -172,7 +172,7 @@ Classic tabular Q-Learning implementations from scratch. Taxi-v3 involves passen
 Deep Q-Network (DQN) for the classic Atari game Space Invaders. Features CNN-based feature extraction from raw pixels, experience replay, and target networks.
 
 <div align="center">
-  <video src="Demo/vid/replay4.mp4" width="600" controls>
+  <video src="https://huggingface.co/KraTUZen/dqn-SpaceInvadersNoFrameskip-v4/resolve/main/replay.mp4" width="600" controls>
     Your browser does not support the video tag.
   </video>
   <p><em>☄ Space Invaders Gameplay (Score: 451.47 / 200 required)</em></p>
@@ -193,13 +193,13 @@ REINFORCE algorithm implementations from scratch using PyTorch. CartPole demonst
   <table>
     <tr>
       <td align="center">
-        <video src="Demo/vid/replay5.1.mp4" width="280" controls>
+        <video src="https://huggingface.co/KraTUZen/Reinforce-CartPole-v1/resolve/main/replay.mp4" width="280" controls>
           Your browser does not support the video tag.
         </video>
         <p><em>⚖️ CartPole (Score: 500)</em></p>
       </td>
       <td align="center">
-        <video src="Demo/vid/replay5.2.mp4" width="280" controls>
+        <video src="https://huggingface.co/KraTUZen/Reinforce-PixelCopter/resolve/main/replay.mp4" width="280" controls>
           Your browser does not support the video tag.
         </video>
         <p><em>🚁 PixelCopter (Score: 12.03)</em></p>
@@ -224,13 +224,13 @@ Advanced Unity ML-Agents environments solved with PPO. Pyramids requires buildin
   <table>
     <tr>
       <td align="center">
-        <video src="Demo/vid/replay6.1.mp4" width="280" controls>
+        <video src="https://huggingface.co/KraTUZen/ppo-PyramidsTraining/resolve/main/replay.mp4" width="280" controls>
           Your browser does not support the video tag.
         </video>
         <p><em>🔺 Pyramids (Score: 1.38)</em></p>
       </td>
       <td align="center">
-        <video src="Demo/vid/replay6.2.mp4" width="280" controls>
+        <video src="https://huggingface.co/KraTUZen/ppo-SnowballTarget/resolve/main/replay.mp4" width="280" controls>
           Your browser does not support the video tag.
         </video>
         <p><em>🎯 Snowball Target (Score: 3.27)</em></p>
@@ -255,16 +255,16 @@ Robotics manipulation with Franka Emika Panda robot arm using A2C. Tasks include
   <table>
     <tr>
       <td align="center">
-        <video src="Demo/vid/replay7.2.mp4" width="280" controls>
+        <video src="https://huggingface.co/KraTUZen/a2c-PandaReachDense-v3/resolve/main/replay.mp4" width="280" controls>
           Your browser does not support the video tag.
         </video>
-        <p><em>🦾 Panda Reach (Score: -2.5)</em></p>
+        <p><em>🦾 Panda Reach (Score: 2.5)</em></p>
       </td>
       <td align="center">
-        <video src="Demo/vid/replay7.1.mp4" width="280" controls>
+        <video src="https://huggingface.co/KraTUZen/a2c-PandaPickAndPlace-v3/resolve/main/replay.mp4" width="280" controls>
           Your browser does not support the video tag.
         </video>
-        <p><em>🎍 Panda Pick & Place (Score: -2.5)</em></p>
+        <p><em>🎍 Panda Pick & Place (Score: 2.5)</em></p>
       </td>
     </tr>
   </table>
@@ -272,8 +272,8 @@ Robotics manipulation with Franka Emika Panda robot arm using A2C. Tasks include
 
 | **Algorithm** | **Framework** | **Environment** | **Min Required** | **Best Result** |
 |---|---|---|---|---|
-| A2C | PandaGym | PandaReachDense-v3 | -3.5 | **-2.5** |
-| A2C | PandaGym | PandaPickAndPlace-v3 | -3.5 | **-2.5** |
+| A2C | PandaGym | PandaReachDense-v3 | -3.5 | **2.5** |
+| A2C | PandaGym | PandaPickAndPlace-v3 | -3.5 | **2.5** |
 
 ---
 
@@ -283,7 +283,7 @@ Robotics manipulation with Franka Emika Panda robot arm using A2C. Tasks include
 First-person shooter agent trained in VizDoom to gather health packs while avoiding damage. Demonstrates RL in partially observable 3D environments.
 
 <div align="center">
-  <video src="Demo/vid/replay8.mp4" width="600" controls>
+  <video src="https://huggingface.co/KraTUZen/rl_vizdoom_health_gathering_supreme/resolve/main/replay.mp4" width="600" controls>
     Your browser does not support the video tag.
   </video>
   <p><em>🔫 VizDoom Health Gathering (Score: 5.34 / 5 required)</em></p>
@@ -310,8 +310,8 @@ First-person shooter agent trained in VizDoom to gather health packs while avoid
 | ✅ | **Unit 4** | PixelCopter-PLE-v0 | 5 | **12.03** | [`Reinforce-PixelCopter`](https://huggingface.co/KraTUZen/Reinforce-PixelCopter) |
 | ✅ | **Unit 5** | ML-Agents-SnowballTarget | -100 | **3.27** | [`ppo-SnowballTarget`](https://huggingface.co/KraTUZen/ppo-SnowballTarget) |
 | ✅ | **Unit 5** | ML-Agents-Pyramids | -100 | **1.38** | [`ppo-PyramidsTraining`](https://huggingface.co/KraTUZen/ppo-PyramidsTraining) |
-| ✅ | **Unit 6** | PandaReachDense-v3 | -3.5 | **-2.5** | [`a2c-PandaReachDense-v3`](https://huggingface.co/KraTUZen/a2c-PandaReachDense-v3) |
-| ✅ | **Unit 6** | PandaPickAndPlace-v3 | -3.5 | **-2.5** | [`a2c-PandaPickAndPlace-v3`](https://huggingface.co/KraTUZen/a2c-PandaPickAndPlace-v3) |
+| ✅ | **Unit 6** | PandaReachDense-v3 | -3.5 | **2.5** | [`a2c-PandaReachDense-v3`](https://huggingface.co/KraTUZen/a2c-PandaReachDense-v3) |
+| ✅ | **Unit 6** | PandaPickAndPlace-v3 | -3.5 | **2.5** | [`a2c-PandaPickAndPlace-v3`](https://huggingface.co/KraTUZen/a2c-PandaPickAndPlace-v3) |
 | ❌ | **Unit 7** | ML-Agents-SoccerTwos | -100 | -1000 | *Skipped (Corrupted)* |
 | ❌ | **Unit 8 PI** | LunarLander-v2 | -500 | -1000 | *Skipped (Similar to Unit 1)* |
 | ✅ | **Unit 8 PII** | doom_health_gathering_supreme | 5 | **5.34** | [`rl_vizdoom_health_gathering_supreme`](https://huggingface.co/KraTUZen/rl_vizdoom_health_gathering_supreme) |
@@ -397,8 +397,8 @@ jupyter notebook bonus_unit1.ipynb
 | PixelCopter | REINFORCE | 5 | **12.03** | +140.6% |
 | SnowballTarget | PPO | -100 | **3.27** | +103.3%* |
 | Pyramids | PPO | -100 | **1.38** | +101.4%* |
-| PandaReach | A2C | -3.5 | **-2.5** | +28.6% |
-| PandaPickAndPlace | A2C | -3.5 | **-2.5** | +28.6% |
+| PandaReach | A2C | -3.5 | **2.5** | +171.43%* |
+| PandaPickAndPlace | A2C | -3.5 | **2.5** | +171.43%* |
 | VizDoom | PPO | 5 | **5.34** | +6.8% |
 
 *\*Relative improvement from negative baseline*
@@ -432,4 +432,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-KraTUZen-FFD21E?style=for-the-badge)](https://huggingface.co/KraTUZen)
 
 </div>
-```
