@@ -1,4 +1,4 @@
-# 🤖 Reinforcement Learning Practice
+# 🧠 Reinforcement Learning Practice
 
 ![Reinforcement Learning Banner](https://raw.githubusercontent.com/Kratugautam99/Reinforcement-Learning-Practice/refs/heads/main/Demo/img/display.jpg)
 
