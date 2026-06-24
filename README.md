@@ -71,7 +71,7 @@ A comprehensive collection of **Reinforcement Learning implementations** from th
 │
 ├── 📁 # 8️⃣ VIZDOOM AGENT (Unit 8 Part II)
 ├── 8_DoomAgentVizdoom/
-│   └──unit8_part2.ipynb     → VizDoom Environment and Agent for Doom Game Agent
+│   └──unit8_part2.ipynb      → VizDoom Environment and Agent for Doom Game Agent
 │
 ├── 📁 # 🎥 DEMONSTRATION MEDIA
 ├── Demo/
@@ -91,7 +91,7 @@ A comprehensive collection of **Reinforcement Learning implementations** from th
 │   └── 📁 img/
 │       └── display.png          → RL Workflow Display
 │
-└── README.md                     → You are here!
+└── README.md                 → You are here!
 ```
 
 ---
